@@ -60,6 +60,19 @@ The analysis uses publicly available supplementary differential expression, GSEA
 
 **Module enrichment:** Published enrichment results highlighted immune activation and cell junction organization in the blue module and RNA splicing in the cyan module.
 
+
+## Visualizations
+
+### Differential Gene Expression
+![Volcano plot](figures/volcano_plot.png)
+
+### WGCNA Module–Pain Correlations
+![WGCNA module correlations](figures/wgcna_correlations.png)
+
+### Functional Enrichment of Pain-Associated Modules
+![Module enrichment](figures/module_enrichment.png)
+
+
 ## Reproducibility
 
 The project is implemented in a Jupyter notebook compatible with Google Colab.
