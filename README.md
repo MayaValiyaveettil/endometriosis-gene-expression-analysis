@@ -1,6 +1,6 @@
 # Endometriosis Gene Expression & Pain-Associated Pathway Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MayaValiyaveettil/endometriosis-gene-expression-analysis/blob/main/Endometriosis_Gene_Expression_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E4bsvJIKHegd8hJRCRUU38sY8ZmjJ6r8#scrollTo=948834a7)
 
 **Exploratory bioinformatics analysis | Python · pandas · NumPy · Matplotlib · statsmodels**
 
